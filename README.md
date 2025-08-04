@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- 📍 Based in Abu Dhabi, UAE 🇦🇪
+- 🎓 Second-year Computer Science student at Khalifa University.
+- 💻 Interests: Full-stack development
+
 ---
 
 ### Languages and Tools
