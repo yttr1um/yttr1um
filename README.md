@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Salem Al-Haddad 👋
 
 ### About me
 - 📍 Based in Abu Dhabi, UAE 🇦🇪
